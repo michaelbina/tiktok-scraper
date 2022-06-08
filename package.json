@@ -1,5 +1,5 @@
 {
-    "name": "@michaelbina/tiktok-scraper",
+    "name": "@michaeldbina/tiktok-scraper",
     "version": "2.5.0",
     "description": "TikTok Scraper & Downloader. Scrape information from User, Trending and HashTag pages and download video posts",
     "main": "./build/index.js",
